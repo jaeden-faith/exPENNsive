@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+<div style = "background-color:#63371E; padding:25px; font-family: Tahoma; font-size: 30px; color:white; text-align: center;margin:5px;"><h1>SUSTAINABILITY </h1> 
+  </div>
+  <a href = "game.html"; style = "color:#28430A;background-color:#bbf29b; margin:5px; padding:5px; font-family: Tahoma;" >Play the Game Here!</a>
+    
+<body>
+  <script src="script.js"></script>
+ <!--
+  This script places a badge on your repl's full-browser view back to your repl's cover
+  page. Try various colors for the theme: dark, light, red, orange, yellow, lime, green,
+  teal, blue, blurple, magenta, pink!
+  -->
+  <script src="https://replit.com/public/js/replit-badge.js" theme="blue" defer></script> 
+</body>
+
+</html>
